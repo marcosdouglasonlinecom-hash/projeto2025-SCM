@@ -14,4 +14,20 @@ O objetivo é demonstrar o **controle de versão, colaboração em equipe e gere
 ---
 
 ## Estrutura do repositório
+projeto2025_SCM/
+│
+├── src/                      # Código-fonte
+│   ├── novo.py               # Exemplo de arquivo modificado
+│   └── nova_funcionalidade.py # Exemplo de arquivo novo
+│
+├── docs/                     # Documentação
+│   ├── relatorio.docx        # Relatório da atividade
+│   └── instrucoes.pdf        # Instruções ou manual (opcional)
+│
+├── resources/                # Arquivos de apoio
+│   └── diagrama.png          # Imagem/diagrama do projeto
+│
+├── requirements.txt          # Dependências (opcional, se for código Python)
+└── README.md                 # Explicação do projeto
+
 
